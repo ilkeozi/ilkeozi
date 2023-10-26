@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ilkeozi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning DynamoDb, AWS Serverless, Express.js, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Nest.Js, DynamoDb, AWS Serverless, React
+
 
 <!---
 ilkeozi/ilkeozi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
