@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ilkeozi
-- 👀 I’m interested in Nest.Js, DynamoDb, AWS Serverless, React
+- 👋 Hello World!
 
 
 <!---
