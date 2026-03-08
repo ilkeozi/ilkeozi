@@ -10,9 +10,9 @@ Current interests:
 - Agentic software development workflows
 - Developer tooling & infrastructure
 
-Projects & experiments:
-- **bunlar.org** – personal engineering sandbox for experimenting with interactive visualizations, simulations, and technical ideas
-- **opencascade-convert** – browser-based STEP/IGES → glTF converter built on opencascade.js
-- **aws-iot-esp** – ESP32 + AWS IoT prototype for telemetry and hardware control
+Projects & experiments: 
+- [**bunlar.org**](https://www.bunlar.org) – personal engineering sandbox for experimenting with interactive visualizations, simulations, and technical ideas
+- [**opencascade-convert**](https://github.com/ilkeozi/opencascade-convert) – browser-based STEP/IGES → glTF converter built on top of opencascade.js WASM
+- [**aws-iot-esp**](https://github.com/ilkeozi/aws-iot-esp) – ESP32 + AWS IoT prototype for telemetry and hardware control
 
 You’ll find here a mix of backend experiments, infrastructure tools, and engineering sandboxes.
